@@ -53,7 +53,10 @@ Changes made to views/js/main.js and views/css/style.css:
 1. Optimize changePizzaSizes(size) function
 2. Use getElementsByClassName when possible
 3. Move `document.body.scrollTop / 1250` out of for loop in `updatePositions()` function
-4. added `transform: translateZ(0);` to `.mover` in style.css
+4. Added `transform: translateZ(0);` to `.mover` in style.css
+5. Moved `var pizzasDiv` out of for loop
+6. Refactored phase calculation into separate loop
+7. Dynamically generate `numOfPizzas` based on  browser height
 
 ![Frame Rate](https://cloud.githubusercontent.com/assets/7112158/18869125/837fde92-84dd-11e6-8259-0f590cad4ec9.png)
 
