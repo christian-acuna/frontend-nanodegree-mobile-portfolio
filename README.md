@@ -43,7 +43,7 @@ configuration file for each task.
 ![PageSpeed](https://cloud.githubusercontent.com/assets/7112158/18868489/f91960a4-84da-11e6-9e14-de139249e495.png)
 
 Site is hosted on:
-[https://christian-acuna.github.io/frontend-nanodegree-mobile-portfolio/](https://christian-acuna.github.io/frontend-nanodegree-mobile-portfolio/)
+[http://christian-acuna.me/web-perf/](http://christian-acuna.me/web-perf/)
 
 
 #### Part 2: Optimize Frames per Second in pizza.html
